@@ -154,13 +154,6 @@
     "change": 0.0
   },
   {
-    "code": "00643K",
-    "name": "群益深証中小+R",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "00645",
     "name": "富邦日本",
     "market": "TWSE",
@@ -541,13 +534,6 @@
   {
     "code": "00714",
     "name": "群益道瓊美國地產",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
-    "code": "00715L",
-    "name": "期街口布蘭特正2",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1302,8 +1288,8 @@
     "change": 0.0
   },
   {
-    "code": "01002T",
-    "name": "土銀國泰R1",
+    "code": "01004T",
+    "name": "土銀富邦R2",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
@@ -1395,6 +1381,20 @@
   {
     "code": "1210",
     "name": "大成",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1215",
+    "name": "卜蜂",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "1216",
+    "name": "統一",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0

@@ -532,13 +532,6 @@
     "change": 0.0
   },
   {
-    "code": "00715L",
-    "name": "期街口布蘭特正2",
-    "market": "TWSE",
-    "three_inst_ratio": 0.0,
-    "change": 0.0
-  },
-  {
     "code": "00717",
     "name": "富邦美國特別股",
     "market": "TWSE",
@@ -1269,6 +1262,13 @@
   {
     "code": "00986A",
     "name": "主動台新龍頭成長",
+    "market": "TWSE",
+    "three_inst_ratio": 0.0,
+    "change": 0.0
+  },
+  {
+    "code": "00988A",
+    "name": "主動統一全球創新",
     "market": "TWSE",
     "three_inst_ratio": 0.0,
     "change": 0.0
