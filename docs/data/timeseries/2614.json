@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.404729705270665,
     "three_inst_ratio_change_20": 1.6702219897391632
+  },
+  {
+    "date": "2025-12-15",
+    "code": "2614",
+    "name": "東森",
+    "market": "TWSE",
+    "foreign_ratio": 5.86,
+    "trust_ratio": 0.3147297052706647,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.174729705270665,
+    "three_inst_ratio_change_20": 1.2102219897391642
   }
 ]

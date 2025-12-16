@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.25,
     "three_inst_ratio_change_20": 1.0199999999999996
+  },
+  {
+    "date": "2025-12-15",
+    "code": "2340",
+    "name": "台亞",
+    "market": "TWSE",
+    "foreign_ratio": 8.66,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.66,
+    "three_inst_ratio_change_20": 1.3500000000000005
   }
 ]

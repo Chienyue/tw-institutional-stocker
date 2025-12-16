@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.026397719504317,
     "three_inst_ratio_change_20": -0.5007173418132815
+  },
+  {
+    "date": "2025-12-15",
+    "code": "2204",
+    "name": "中華",
+    "market": "TWSE",
+    "foreign_ratio": 20.79,
+    "trust_ratio": 0.2763977195043169,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.066397719504316,
+    "three_inst_ratio_change_20": -0.3394529374066977
   }
 ]

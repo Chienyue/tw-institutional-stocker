@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.618645647610622,
     "three_inst_ratio_change_20": 2.714989805201773
+  },
+  {
+    "date": "2025-12-15",
+    "code": "3013",
+    "name": "晟銘電",
+    "market": "TWSE",
+    "foreign_ratio": 10.24,
+    "trust_ratio": 1.2659713102725065,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.505971310272507,
+    "three_inst_ratio_change_20": 2.592315467863658
   }
 ]

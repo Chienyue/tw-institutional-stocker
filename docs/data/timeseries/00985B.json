@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.96,
     "three_inst_ratio_change_20": -1.38
+  },
+  {
+    "date": "2025-12-15",
+    "code": "00985B",
+    "name": "群益ESG投等債0-5",
+    "market": "TWSE",
+    "foreign_ratio": 6.14,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.14,
+    "three_inst_ratio_change_20": 2.0999999999999996
   }
 ]

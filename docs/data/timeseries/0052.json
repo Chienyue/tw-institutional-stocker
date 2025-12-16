@@ -636,5 +636,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.419232350925291,
     "three_inst_ratio_change_20": -2.3853830336900934
+  },
+  {
+    "date": "2025-12-15",
+    "code": "0052",
+    "name": "富邦科技",
+    "market": "TWSE",
+    "foreign_ratio": 0.88,
+    "trust_ratio": 0.27480607082630687,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.1548060708263068,
+    "three_inst_ratio_change_20": -2.496055173192832
   }
 ]

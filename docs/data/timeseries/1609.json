@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.741877501706616,
     "three_inst_ratio_change_20": -0.2921323987655242
+  },
+  {
+    "date": "2025-12-15",
+    "code": "1609",
+    "name": "大亞",
+    "market": "TWSE",
+    "foreign_ratio": 12.19,
+    "trust_ratio": 0.20104641668462161,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.39104641668462,
+    "three_inst_ratio_change_20": -0.15181736941526935
   }
 ]

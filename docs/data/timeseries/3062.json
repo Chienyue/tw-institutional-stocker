@@ -691,5 +691,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.62,
     "three_inst_ratio_change_20": -0.9999999999999991
+  },
+  {
+    "date": "2025-12-15",
+    "code": "3062",
+    "name": "建漢",
+    "market": "TWSE",
+    "foreign_ratio": 7.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.61,
+    "three_inst_ratio_change_20": -0.9699999999999998
   }
 ]
