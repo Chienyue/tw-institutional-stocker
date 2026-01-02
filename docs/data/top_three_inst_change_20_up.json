@@ -1190,10 +1190,10 @@
     "change": 0.3600000000000003
   },
   {
-    "code": "4564",
-    "name": "元翎",
+    "code": "3588",
+    "name": "通嘉",
     "market": "TWSE",
-    "three_inst_ratio": 2.33,
+    "three_inst_ratio": 2.2,
     "change": 0.3600000000000001
   },
   {
@@ -1204,10 +1204,10 @@
     "change": 0.3600000000000001
   },
   {
-    "code": "3588",
-    "name": "通嘉",
+    "code": "4564",
+    "name": "元翎",
     "market": "TWSE",
-    "three_inst_ratio": 2.2,
+    "three_inst_ratio": 2.33,
     "change": 0.3600000000000001
   },
   {
@@ -1358,10 +1358,10 @@
     "change": 0.32827120212202177
   },
   {
-    "code": "00762",
-    "name": "元大全球AI",
+    "code": "3356",
+    "name": "奇偶",
     "market": "TWSE",
-    "three_inst_ratio": 3.3271577847439917,
+    "three_inst_ratio": 5.21,
     "change": 0.3200000000000003
   },
   {
@@ -1372,17 +1372,17 @@
     "change": 0.3200000000000003
   },
   {
-    "code": "3356",
-    "name": "奇偶",
-    "market": "TWSE",
-    "three_inst_ratio": 5.21,
-    "change": 0.3200000000000003
-  },
-  {
     "code": "4142",
     "name": "國光生",
     "market": "TWSE",
     "three_inst_ratio": 5.71,
+    "change": 0.3200000000000003
+  },
+  {
+    "code": "00762",
+    "name": "元大全球AI",
+    "market": "TWSE",
+    "three_inst_ratio": 3.3271577847439917,
     "change": 0.3200000000000003
   },
   {
