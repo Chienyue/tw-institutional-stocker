@@ -854,17 +854,17 @@
     "change": -0.433013517609246
   },
   {
-    "code": "2332",
-    "name": "友訊",
-    "market": "TWSE",
-    "three_inst_ratio": 12.15,
-    "change": -0.4299999999999997
-  },
-  {
     "code": "9914",
     "name": "美利達",
     "market": "TWSE",
     "three_inst_ratio": 23.32510115932703,
+    "change": -0.4299999999999997
+  },
+  {
+    "code": "2332",
+    "name": "友訊",
+    "market": "TWSE",
+    "three_inst_ratio": 12.15,
     "change": -0.4299999999999997
   },
   {
@@ -889,17 +889,17 @@
     "change": -0.41791428919226803
   },
   {
-    "code": "2753",
-    "name": "八方雲集",
-    "market": "TWSE",
-    "three_inst_ratio": 11.92310927983034,
-    "change": -0.41000000000000014
-  },
-  {
     "code": "4164",
     "name": "承業醫",
     "market": "TWSE",
     "three_inst_ratio": 27.751546599856685,
+    "change": -0.41000000000000014
+  },
+  {
+    "code": "2753",
+    "name": "八方雲集",
+    "market": "TWSE",
+    "three_inst_ratio": 11.92310927983034,
     "change": -0.41000000000000014
   },
   {
@@ -1281,17 +1281,17 @@
     "change": -0.28000000000000025
   },
   {
-    "code": "8045",
-    "name": "達運光電",
-    "market": "TWSE",
-    "three_inst_ratio": 1.82,
-    "change": -0.28
-  },
-  {
     "code": "1618",
     "name": "合機",
     "market": "TWSE",
     "three_inst_ratio": 1.65,
+    "change": -0.28
+  },
+  {
+    "code": "8045",
+    "name": "達運光電",
+    "market": "TWSE",
+    "three_inst_ratio": 1.82,
     "change": -0.28
   },
   {

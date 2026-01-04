@@ -665,17 +665,17 @@
     "change": 0.71
   },
   {
-    "code": "00952",
-    "name": "凱基台灣AI50",
-    "market": "TWSE",
-    "three_inst_ratio": 2.91,
-    "change": 0.71
-  },
-  {
     "code": "00891",
     "name": "中信關鍵半導體",
     "market": "TWSE",
     "three_inst_ratio": 1.98,
+    "change": 0.71
+  },
+  {
+    "code": "00952",
+    "name": "凱基台灣AI50",
+    "market": "TWSE",
+    "three_inst_ratio": 2.91,
     "change": 0.71
   },
   {
@@ -833,17 +833,17 @@
     "change": 0.5499999999999998
   },
   {
-    "code": "00954",
-    "name": "中信日本半導體",
-    "market": "TWSE",
-    "three_inst_ratio": 1.62,
-    "change": 0.54
-  },
-  {
     "code": "2413",
     "name": "環科",
     "market": "TWSE",
     "three_inst_ratio": 3.7,
+    "change": 0.54
+  },
+  {
+    "code": "00954",
+    "name": "中信日本半導體",
+    "market": "TWSE",
+    "three_inst_ratio": 1.62,
     "change": 0.54
   },
   {
@@ -924,17 +924,17 @@
     "change": 0.5067859878827665
   },
   {
-    "code": "6756",
-    "name": "威鋒電子",
-    "market": "TWSE",
-    "three_inst_ratio": 3.004312703956032,
-    "change": 0.5
-  },
-  {
     "code": "3437",
     "name": "榮創",
     "market": "TWSE",
     "three_inst_ratio": 5.58,
+    "change": 0.5
+  },
+  {
+    "code": "6756",
+    "name": "威鋒電子",
+    "market": "TWSE",
+    "three_inst_ratio": 3.004312703956032,
     "change": 0.5
   },
   {
@@ -1113,17 +1113,17 @@
     "change": 0.40199719202363404
   },
   {
-    "code": "3701",
-    "name": "大眾控",
-    "market": "TWSE",
-    "three_inst_ratio": 4.49,
-    "change": 0.40000000000000036
-  },
-  {
     "code": "2836",
     "name": "高雄銀",
     "market": "TWSE",
     "three_inst_ratio": 7.990108700556401,
+    "change": 0.40000000000000036
+  },
+  {
+    "code": "3701",
+    "name": "大眾控",
+    "market": "TWSE",
+    "three_inst_ratio": 4.49,
     "change": 0.40000000000000036
   },
   {
@@ -1204,17 +1204,17 @@
     "change": 0.38524160941059193
   },
   {
-    "code": "3588",
-    "name": "通嘉",
-    "market": "TWSE",
-    "three_inst_ratio": 2.29,
-    "change": 0.3800000000000001
-  },
-  {
     "code": "00739",
     "name": "元大MSCI A股",
     "market": "TWSE",
     "three_inst_ratio": 1.37,
+    "change": 0.3800000000000001
+  },
+  {
+    "code": "3588",
+    "name": "通嘉",
+    "market": "TWSE",
+    "three_inst_ratio": 2.29,
     "change": 0.3800000000000001
   },
   {

@@ -840,17 +840,17 @@
     "change": -1.2409758948692051
   },
   {
-    "code": "4746",
-    "name": "台耀",
-    "market": "TWSE",
-    "three_inst_ratio": 11.7,
-    "change": -1.2400000000000002
-  },
-  {
     "code": "5608",
     "name": "四維航",
     "market": "TWSE",
     "three_inst_ratio": 4.45,
+    "change": -1.2400000000000002
+  },
+  {
+    "code": "4746",
+    "name": "台耀",
+    "market": "TWSE",
+    "three_inst_ratio": 11.7,
     "change": -1.2400000000000002
   },
   {
@@ -903,17 +903,17 @@
     "change": -1.2118110491573688
   },
   {
-    "code": "00926",
-    "name": "凱基全球菁英55",
-    "market": "TWSE",
-    "three_inst_ratio": 0.88,
-    "change": -1.21
-  },
-  {
     "code": "00675L",
     "name": "富邦臺灣加權正2",
     "market": "TWSE",
     "three_inst_ratio": 0.35,
+    "change": -1.21
+  },
+  {
+    "code": "00926",
+    "name": "凱基全球菁英55",
+    "market": "TWSE",
+    "three_inst_ratio": 0.88,
     "change": -1.21
   },
   {
