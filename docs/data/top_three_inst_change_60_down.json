@@ -777,17 +777,17 @@
     "change": -2.153315270243276
   },
   {
-    "code": "3704",
-    "name": "合勤控",
-    "market": "TWSE",
-    "three_inst_ratio": 7.88,
-    "change": -2.1399999999999997
-  },
-  {
     "code": "2399",
     "name": "映泰",
     "market": "TWSE",
     "three_inst_ratio": 2.25,
+    "change": -2.1399999999999997
+  },
+  {
+    "code": "3704",
+    "name": "合勤控",
+    "market": "TWSE",
+    "three_inst_ratio": 7.88,
     "change": -2.1399999999999997
   },
   {

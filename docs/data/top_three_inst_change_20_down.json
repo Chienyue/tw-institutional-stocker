@@ -182,17 +182,17 @@
     "change": -3.4226487079304917
   },
   {
-    "code": "6426",
-    "name": "統新",
-    "market": "TWSE",
-    "three_inst_ratio": 7.42,
-    "change": -3.3499999999999996
-  },
-  {
     "code": "2486",
     "name": "一詮",
     "market": "TWSE",
     "three_inst_ratio": 7.83,
+    "change": -3.3499999999999996
+  },
+  {
+    "code": "6426",
+    "name": "統新",
+    "market": "TWSE",
+    "three_inst_ratio": 7.42,
     "change": -3.3499999999999996
   },
   {
@@ -1204,17 +1204,17 @@
     "change": -0.8442383989073186
   },
   {
-    "code": "2547",
-    "name": "日勝生",
-    "market": "TWSE",
-    "three_inst_ratio": 15.427581104334354,
-    "change": -0.8399999999999999
-  },
-  {
     "code": "00693U",
     "name": "期街口S&P黃豆",
     "market": "TWSE",
     "three_inst_ratio": 1.29,
+    "change": -0.8399999999999999
+  },
+  {
+    "code": "2547",
+    "name": "日勝生",
+    "market": "TWSE",
+    "three_inst_ratio": 15.427581104334354,
     "change": -0.8399999999999999
   },
   {
@@ -1365,17 +1365,17 @@
     "change": -0.7524473506651685
   },
   {
-    "code": "5244",
-    "name": "弘凱",
-    "market": "TWSE",
-    "three_inst_ratio": 2.43,
-    "change": -0.75
-  },
-  {
     "code": "4526",
     "name": "東台",
     "market": "TWSE",
     "three_inst_ratio": 4.61,
+    "change": -0.75
+  },
+  {
+    "code": "5244",
+    "name": "弘凱",
+    "market": "TWSE",
+    "three_inst_ratio": 2.43,
     "change": -0.75
   },
   {
